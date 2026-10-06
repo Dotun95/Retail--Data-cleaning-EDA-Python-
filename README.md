@@ -1,4 +1,4 @@
-# Layoffs--Data-cleaning-EDA-Python-
+# Retail--Data-cleaning-EDA-Python
 # Retail Sales Data Analysis 🛍️
 
 A comprehensive Python-based exploratory data analysis (EDA) and data cleaning pipeline for a retail sales dataset. This project uncovers key insights regarding customer demographics, product category performance, and sales revenue trends.
