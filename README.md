@@ -11,7 +11,7 @@ The analysis is performed on a retail transaction dataset containing 1,000 recor
 * Date: The date the transaction took place.
 * Customer ID: Unique identifier for the customer
 * Gender: Gender of the customer
-* Age**: Age of the customer (ranging from 18 to 64 years)
+* Age: Age of the customer (ranging from 18 to 64 years)
 * Product Category: The type of product purchased ( Beauty, Clothing, Electronics)
 * Quantity: Number of units purchased per transaction 
 
